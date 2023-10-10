@@ -3,6 +3,7 @@
         "hookform",
         "lucide",
         "nextjs",
-        "prismadb"
+        "prismadb",
+        "tanstack"
     ]
 }
